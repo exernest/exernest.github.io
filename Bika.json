@@ -1,0 +1,41 @@
+{
+  "name": "Bika CG",
+  "identifier": "com.bikacg.bikacg",
+  "apps": [
+    {
+      "name": "Bika CG",
+      "bundleIdentifier": "com.bikacg.bikacg",
+      "developerName": "Bika",
+      "subtitle": "嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備",
+      "version": "1.997",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Fixes Bugs",
+      "downloadURL": "https://exernest.github.io/bika_dev_2_1_2_3.ipa",
+      "localizedDescription": "嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備.",
+      "iconURL": "https://exernest.github.io/AppIcon83.5x83.5.png",
+      "tintColor": "a1261b",
+      "size": 19562496,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000455-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-2.png",
+	"https://static.appdb.to/images/cydia-1900000455-iphone-3.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Bika CG现在可用",
+      "identifier": "Bika CG-now-available",
+      "caption": "Bika CG现在已更新至2.1.2.3",
+      "tintColor": "a1261b",
+      "imageURL": "https://raw.githubusercontent.com/Donut5162/myfirst/master/newsimage2.png",
+      "appID": "com.bikacg.bikacg",
+      "date": "2020-03-24",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}
