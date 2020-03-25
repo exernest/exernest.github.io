@@ -3,7 +3,7 @@
   "identifier": "com.bikacg.bikacg",
   "apps": [
     {
-      "name": "Bika CG",
+      "name": "sora",
       "bundleIdentifier": "com.bikacg.bikacg",
       "developerName": "Bika",
       "subtitle": "",
@@ -13,7 +13,7 @@
       "downloadURL": "https://exernest.github.io/bika_dev_2_1_2_3.ipa",
       "localizedDescription": "嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備.",
       "iconURL": "https://exernest.github.io/AppIcon83.5x83.5.png",
-      "tintColor": "a1261b",
+      "tintColor": "FF82A9",
       "size": 19562496,
       "screenshotURLs": [
         "https://exernest.github.io/images.jpg"
@@ -25,7 +25,7 @@
       "title": "Bika CG",
       "identifier": "Bika CG-now-available",
       "caption": "Bika CG现在已更新至2.1.2.3",
-      "tintColor": "a1261b",
+      "tintColor": "FF82A9",
       "imageURL": "https://exernest.github.io/bikacg.png",
       "appID": "com.bikacg.bikacg",
       "date": "2020-02-15",
